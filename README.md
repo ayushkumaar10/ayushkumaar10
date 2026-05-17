@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey 👋 I'm Ayush
 
-<!--
-**ayushkumaar10/ayushkumaar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Aspiring Cybersecurity Professional
+- Learning VAPT & Penetration Testing
+- Linux • Networking • Python
+- TryHackMe Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏴‍☠️ TryHackMe Profile
+
+https://tryhackme.com/p/YOUR_THM_USERNAME
+
+---
+
+## ⚡ Current Focus
+- Python for Cybersecurity
+- Recon Automation
+- Privilege Escalation
+- Active Directory Labs
+
+---
+
+## 🛠️ Tools & Skills
+- Linux
+- Git & GitHub
+- Nmap
+- Burp Suite
+- Python
+- Bash
+
+---
+
+## 📡 Connect With Me
+- GitHub: https://github.com/ayushkumaar10
