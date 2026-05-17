@@ -10,7 +10,7 @@
 
 ## 🏴‍☠️ TryHackMe Profile
 
-https://tryhackme.com/p/YOUR_THM_USERNAME
+https://tryhackme.com/p/ayushkumar7617
 
 ---
 
