@@ -32,5 +32,3 @@ https://tryhackme.com/p/ayushkumar7617
 
 ---
 
-## 📡 Connect With Me
-- GitHub: https://github.com/ayushkumaar10
